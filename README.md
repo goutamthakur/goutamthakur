@@ -1,5 +1,5 @@
 # Hi there 👋
-- I am a second-year computer engineering student. AI/ML enthusiast    
+- I am a second-year computer engineering student.   
 - 🌱 I’m currently learning: CSS
 - 😄 Pronouns: he/him/his
 ## Connect with me   
