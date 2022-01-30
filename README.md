@@ -1,7 +1,7 @@
 # Hi there 👋
-- I am a second-year computer engineering student.   
-- 🌱 I’m currently learning: CSS
-- 😄 Pronouns: he/him/his
+**- I am a second-year computer engineering student**<br> 
+**- 🌱 I’m currently learning: CSS**<br>
+**- 😄 Pronouns: he/him/his**<br>
 
 <h2>Languages</h2>
 <p align="left">
