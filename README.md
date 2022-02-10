@@ -12,6 +12,7 @@
 </p>    
 
 <h2>Connect with me</h2>
-<a href="https://www.linkedin.com/in/goutam-thakur-b96626208/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://goutamthakur.com/"><img alt = "Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://twitter.com/goutamtkr"><img alt ="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/goutamtkr"><img alt ="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45px"></a>
+<a href="https://www.linkedin.com/in/goutam-thakur-b96626208/"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45px"></a>
+<a href="https://goutamthakur.com/"><img alt = "Website" src="https://cutewallpaper.org/24/world-wide-web-icon-png/1306025388.jpg" width="45px"></a>
+
