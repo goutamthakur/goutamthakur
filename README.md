@@ -1,8 +1,9 @@
 # Hi there 👋
-**- I am a second-year computer engineering student**       
+**- I am a second-year computer engineering student**<br>
 **- 🌱 I’m currently learning: CSS**<br>
-**- 😄 Pronouns: he/him/his**<br>   
+**- 😄 Pronouns: he/him/his**<br>  
 
+   
 <h2>Languages</h2>
 <p align="left">   
 <a href="https://github.com/goutamthakur"><img alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="45" style="vertical-align:top; margin:4px"></a>
