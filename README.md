@@ -1,6 +1,6 @@
 # Hi there 👋
 **- I am a second-year computer engineering student**<br>
-**- 🌱 I’m currently learning: CSS**<br>
+**- 🌱 I’m currently learning: CSS & Python**<br>
 **- 😄 Pronouns: he/him/his**<br>  
                           
 <h2>Languages</h2>       
