@@ -1,5 +1,5 @@
 # Hi there 👋
-**- I am a second-year computer engineering student**<br>
+**- I am a second-year computer engineering student.**<br>
 **- 🌱 I’m currently learning: CSS & Python**<br>
 **- 😄 Pronouns: he/him/his**<br>  
                           
