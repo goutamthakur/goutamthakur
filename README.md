@@ -17,4 +17,3 @@
 <a href="https://goutamthakur.com/"><img alt = "Website" src="https://cutewallpaper.org/24/world-wide-web-icon-png/1306025388.jpg" width="45"></a>   
 
 
-
