@@ -2,7 +2,7 @@
 **- I am a second-year computer engineering student.**<br>
 **- 🌱 I’m currently learning: CSS**<br>
 **- 😄 Pronouns: he/him/his**<br>  
-<!--                     
+                   
 <h2>Languages</h2>       
 <p align="left">   
 <a href="https://github.com/goutamthakur"><img alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="45" style="vertical-align:top; margin:4px"></a>
@@ -11,7 +11,7 @@
 <a href="https://github.com/goutamthakur"><img alt="git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="45" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/goutamthakur"><img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="45" style="vertical-align:top; margin:4px"></a>
 </p>   
--->
+
 <h2>Connect with me</h2>   
 <a href="https://twitter.com/goutamthakur25"><img alt ="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45"></a>
 <a href="https://www.linkedin.com/in/goutamthakur25/"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45"></a>
