@@ -12,6 +12,7 @@
 <a href="https://github.com/goutamthakur"><img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="45" style="vertical-align:top; margin:4px"></a>
 </p>   
 
+
 <h2>Connect with me</h2>   
 <a href="https://twitter.com/goutamthakur25"><img alt ="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45"></a>
 <a href="https://www.linkedin.com/in/goutamthakur25/"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45"></a>
