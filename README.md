@@ -22,7 +22,6 @@
 </a>
 </p> 
 
-
 ## Connect with me  
 <a href="https://twitter.com/goutamthakur25" target="_blank">
 <img alt ="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45" title="Twitter">
