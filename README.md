@@ -1,7 +1,7 @@
 # Hi there 👋
 
 **- I am a fourth-year computer engineering student.**<br>
-**- 🌱 I’m currently learning: CSS**<br>
+**- 🌱 I’m currently learning: Django**<br>
 **- 😄 Pronouns: he/him/his**<br>  
                    
 ## Languages      
