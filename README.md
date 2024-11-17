@@ -1,9 +1,9 @@
 # Hi there 👋
 
-**- I am a fourth-year computer engineering student.**<br>
-**- 🌱 I’m currently learning: Django**<br>
+**- 🌱 I’m currently learning: Java Spring Boot**<br>
 **- 😄 Pronouns: he/him/his**<br>  
                    
+<!---
 ## Languages      
 <p align="left">   
 <a href="https://github.com/goutamthakur">
@@ -22,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="45" style="vertical-align:top; margin:4px;">
 </a>
 </p> 
+-->
 
 ## Connect with me  
 <a href="https://twitter.com/goutamthakur25" target="_blank">
