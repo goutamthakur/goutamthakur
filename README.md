@@ -25,7 +25,7 @@
 -->
 
 ## Connect with me  
-<a href="https://twitter.com/goutamthakur25" target="_blank">
+<a href="https://twitter.com/goutamtkr" target="_blank">
 <img alt ="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45" title="Twitter">
 </a>
 <a href="https://www.linkedin.com/in/goutamthakur/" target="_blank">
