@@ -1,5 +1,6 @@
 # Hi there 👋
 
-- Enjoy building stuff
+- I enjoy building stuff
 - Passionate about backend development
+
   
